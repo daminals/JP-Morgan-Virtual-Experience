@@ -1,7 +1,7 @@
 # Forage: JP Morgan Chase Software Engineering Virtual Experience
 
 ## Certificate of Completion
-> <img src="cert.png"/>
+<img src="cert.png"/>
 
 ## Overview
 
@@ -14,5 +14,5 @@ Projects were edited using several tools, including Python, Javascript, Typescri
 
 
 ## Reference
-> [_Forage Program Link_](https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program?ref=6afoFnBXduZLXmtvb)
+[_Forage Program Link_](https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program?ref=6afoFnBXduZLXmtvb)
 
