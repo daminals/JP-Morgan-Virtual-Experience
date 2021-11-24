@@ -1,0 +1,38 @@
+From 5e9448121afdc3721ca52224e9de44a76ce4fe36 Mon Sep 17 00:00:00 2001
+From: Daniel Kogan <danielkoganx@gmail.com>
+Date: Tue, 23 Nov 2021 10:51:07 -0500
+Subject: [PATCH] Create Patch File
+
+---
+ __pycache__/client3.cpython-37.pyc | Bin 0 -> 1178 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 __pycache__/client3.cpython-37.pyc
+
+diff --git a/__pycache__/client3.cpython-37.pyc b/__pycache__/client3.cpython-37.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..c44836aee6675aa1c59b719373ea0a9110e7934a
+GIT binary patch
+literal 1178
+zcmYjR&2Jk;6rb6hwbzavO41}YTn3~HjBq!omnbS<jSB*aC~ehNj6kck=h@zPz3a@3
+zQDdA7=E%Q*<Q(~DIB?u6r`|bn;>|dznAQ85d43<i_vA;-W}V=PYriMI)Cl?88n*{+
+z@&%Iq3z;O6W<*dYJ>fa&3*Sj5nDj&-eNmB22EP(fl@(b<8A45l6Hop5>Nlvv7F1Sr
+zMSJAOrD%Y^ZUQ~uUcUvw`VO!)yC&E4ny%lrQtYHe?7ljJ9rQjFccBV*SM&!a_Qbw8
+z5G`oIF6=!d(3UmWgMB!F){yO!6{X~2`O@CkA%tDI)h5UrZL;!iUQb_QFV9G)`5OBo
+zr;GQ-#>|eRC@Tg@HZHU|J~}))j4tM&E<aD@r$1k%|4>2(NbUs48PW-o?jc)Zyf(R_
+z#%f-hNFTG&E6>^NjqRiDE&T%`gLmyaTT*K;*^ps1mBleXQ-z!lfG1hTiy=2-;5mQ<
+z$$v_+IcRPQK7t%nV$g}p#3ZvK%?&RDZHmF9teRpL_fuI0GnEctV<&p@+QTwCv<!w>
+zk(f?U1{d?ffU?(R4Sx`C{A=jDQI+lR52ChE{0q@@4N6CoVwB`j5A+1{L?^{`*2R*~
+zVPJGLO3irQkG?(ou2AU3U!=;+lZ=0pW1d`()0urc=^7Y}y9V=gKk3dcA4G#Jh1@*2
+zKf5d&BQQPe>CE+niM3l!Kcsi;=cy*%4Q$Q!Sm`6VF|<%wQb}>u8q#}4Ec8oiVMb{E
+z#ryngFdSh^3k$4kHcohw%NxDVl^ySChpH;djwh-&PPa<mL9t;CbSXou_Nk5d5n8%}
+zjIfY0s<z#098Z%pkK@G$Pb}1u-_txX{6hr$_@4flBLYskG^lkJp^JuorT^ullhW@!
+z{;Kni*q*B_OZ)c~;6iF6DjU0GCY^#{=eo#6MPVn!R0L0+KYsdsNlzV8ZwkqiDa3Kf
+zQk+B?pzjDu8kYg?g4CjV8@Y;+iy7o)Wmu?bVoIhUk!8iLiWU`Dsa7Gj=N3oVKL}+<
+z<d((lTyFjclieM)!Rp}@H#>vR_V7w`WFd8*&wS>E^{^KDJCu8j)^XAyZF&Cz4!|%A
+
+literal 0
+HcmV?d00001
+
+-- 
+2.32.0
+
