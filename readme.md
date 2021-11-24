@@ -1,5 +1,7 @@
 # Forage: JP Morgan Chase Software Engineering Virtual Experience
 
+<img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpmc+github+img.png">
+
 ## Certificate of Completion
 <img src="cert.png"/>
 
